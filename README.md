@@ -82,4 +82,4 @@ Create deployment Application on CodeDeploy
 
 Also create a Deployment Group without load balancer.
 
-Also create pipeline
+Also create pipeline; skip build stage
